@@ -1,2 +1,2 @@
 # ana_final
-interfaces
+interfaces local
